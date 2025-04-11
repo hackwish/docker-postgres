@@ -1,0 +1,9 @@
+cache/
+config/
+*config-*/*
+media/
+ANY_YOU_NEED/
+backup/
+backup-data/
+postgres-data/
+webhook-discord-templates/
